@@ -1,4 +1,4 @@
-@REM Variables declaration.
+@REM Variable declaration.
 set "history=PATH_TO_ROOT_FOLDER\history.log"
 set "source=PATH_TO_SOURCE_FOLDER"
 set "destination=PATH_TO_DESTINATION_FOLDER"
